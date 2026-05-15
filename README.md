@@ -31,44 +31,6 @@ Automatic-Fruit-Ripeness-Finding-System/
 ├── app.py
 ├── README.md
 └── assets/
-```
-
----
-
-## Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/Automatic-Fruit-Ripeness-Finding-System.git
-cd Automatic-Fruit-Ripeness-Finding-System
-```
-
----
-
-## Run the Project
-
-### Frontend Only
-
-Open `index.html` in your browser.
-
-### With Python Backend
-
-Install dependencies:
-
-```bash
-pip install flask
-```
-
-Run the application:
-
-```bash
-python app.py
-```
-
----
-
-## Future Improvements
 
 * Machine learning integration
 * Real-time camera detection
